@@ -4,13 +4,14 @@
 
 1. Реализуйте функции сериализации и десериализации двусвязного списка, заданного следующим образом:
 2. 
-    class ListNode
+   class ListNode
     {
-        public ListNode Prev;
+ public ListNode Prev;
         public ListNode Next;
         public ListNode Rand; // произвольный элемент внутри списка
         public string Data;
     }
+
     
     class ListRand
     {
