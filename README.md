@@ -11,8 +11,7 @@
         public ListNode Rand; // произвольный элемент внутри списка
         public string Data;
     }
-
-
+    
     class ListRand
     {
         public ListNode Head;
